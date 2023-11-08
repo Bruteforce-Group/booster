@@ -41,7 +41,7 @@
     "tslib": "^2.4.0",
     "ws": "8.12.0",
     "@types/sinon": "10.0.0",
-    "sinon": "9.2.3",
+    "sinon": "9.2.4",
     "@effect-ts/core": "^0.60.4"
   },
   "devDependencies": {
@@ -62,7 +62,7 @@
     "typescript": "4.7.4",
     "prettier": "2.3.0",
     "rimraf": "5.0.0",
-    "sinon": "9.2.3",
+    "sinon": "9.2.4",
     "eslint-plugin-unicorn": "~44.0.2"
   },
   "pnpm": {
