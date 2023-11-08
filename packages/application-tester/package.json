@@ -32,7 +32,7 @@
     "url": "https://github.com/boostercloud/booster/issues"
   },
   "dependencies": {
-    "@apollo/client": "3.7.13",
+    "@apollo/client": "3.8.6",
     "@boostercloud/framework-types": "workspace:^1.18.1",
     "cross-fetch": "3.1.5",
     "graphql": "^16.6.0",
